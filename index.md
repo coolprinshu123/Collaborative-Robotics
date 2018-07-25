@@ -15,7 +15,7 @@ Project description can be found in the given link below :
 # Tutorial
 Video tutorial can be found on the following link :
 
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/2wd0JpbVx6g)
 
 All commits of the work done can be found on the following link : 
 
