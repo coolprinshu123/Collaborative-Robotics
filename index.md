@@ -29,3 +29,9 @@ All the posts related to the work can be found in the following link :
 [Creating tabular structure](https://github.com/robocomp/web/blob/master/gsoc/2018/prinshu_kumar/post2.md)
 
 [Publishing and subscribing](https://github.com/robocomp/web/blob/master/gsoc/2018/prinshu_kumar/post3.md)
+
+# Future works that can be done
+
+1. The present code base uses ``` iot.eclipse.org ``` as broker. It can be extended to use ``` localhost ``` as the broker.
+
+2. The collaborative Robotics uses friendly type connection and it can be extended for master slave type connection.
