@@ -1,3 +1,9 @@
+# Google Summer of code 2k18 Report
+
+# Robocomp
+
+It is time to finally summarize the work done by me as GSoC summer intern. First of all I would like to thank my mentors Iván Barbecho Delgado and Marco A Gutiérrez who has always provided a helping hand whenever I was stuck. It has been an awesome experience as the GSoC intern.
+
 # Learnblock (Learnbot programming language) extension for collaborative robotics
 
 Learnblock is a project to teach children how to program a robot.
